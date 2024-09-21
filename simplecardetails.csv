@@ -1,0 +1,50 @@
+﻿Car names,years,model,fuel type,Price in 2020,price in 2022
+Ford,2003,Corolla,Petrol,620000,501000
+Honda,2004,Camry,Diesel,450000,502000
+Chevrolet,1990,Civic,Electric,800000,503000
+Nissan,1991,Accord,Hybrid,710000,504000
+BMW,1992,Altima,Petrol,950000,505000
+Mercedes-Benz,1993,Sentra,Diesel,350000,506000
+Volkswagen,1994,Impreza,Electric,570000,507000
+Audi,1995,Legacy,Hybrid,890000,508000
+Hyundai,1996,3 Series,Petrol,430000,509000
+Kia,1997,5 Series,Diesel,780000,510000
+Subaru,1998,C-Class,Electric,690000,511000
+Mazda,1999,E-Class,Hybrid,920000,512000
+Volvo,2000,A4,Petrol,860000,513000
+Tesla,2001,A6,Diesel,330000,514000
+Jeep,2002,Passat,Electric,490000,515000
+Dodge,2003,Golf,Hybrid,680000,516000
+Chrysler,2004,Elantra,Petrol,770000,517000
+Ram,2005,Sonata,Diesel,610000,518000
+GMC,2006,Optima,Electric,520000,519000
+Buick,2007,Sorento,Hybrid,980000,520000
+Cadillac,2008,CX-5,Petrol,640000,521000
+Acura,2009,CX-9,Diesel,710000,522000
+Infiniti,2010,Outback,Electric,850000,523000
+Lincoln,2011,Forester,Hybrid,380000,524000
+Land Rover,2012,Model S,Petrol,550000,525000
+Jaguar,2013,Model X,Diesel,720000,526000
+Mini,2014,Model 3,Electric,800000,527000
+Mitsubishi,2015,Model Y,Hybrid,690000,528000
+Porsche,2016,Wrangler,Petrol,760000,529000
+Alfa Romeo,2017,Grand Cherokee,Diesel,470000,530000
+Fiat,2018,Charger,Electric,590000,531000
+Peugeot,2019,Challenger,Hybrid,930000,532000
+Renault,2020,300,Petrol,820000,533000
+Citroën,2021,Durango,Diesel,560000,534000
+Lexus,2022,Silverado,Electric,440000,535000
+Genesis,2023,Tahoe,Hybrid,870000,536000
+Maserati,2024,Equinox,Petrol,610000,537000
+Ferrari,2025,Escalade,Diesel,710000,538000
+Lamborghini,2026,XT5,Electric,490000,539000
+Bentley,2027,Q50,Hybrid,800000,540000
+Rolls-Royce,2028,QX60,Petrol,570000,541000
+Aston Martin,2029,MKZ,Diesel,920000,542000
+McLaren,2030,Navigator,Electric,760000,543000
+Bugatti,2031,Discovery,Hybrid,630000,544000
+Pagani,2032,Range Rover,Petrol,880000,545000
+Koenigsegg,2033,XJ,Diesel,700000,546000
+Rivian,2034,F-Pace,Electric,840000,547000
+Lucid,2035,Clubman,Hybrid,530000,548000
+Toyato,2036,Outlander,Hybrid,620000,549000
