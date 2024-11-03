@@ -57,3 +57,4 @@ comparison_df = pd.DataFrame({
 # Display the DataFrame
 print("\nComparison of Actual and Predicted Values:")
 print(comparison_df)
+
